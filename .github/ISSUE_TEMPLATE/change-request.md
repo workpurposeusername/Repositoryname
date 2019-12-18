@@ -4,7 +4,7 @@ about: standard change test
 title: ''
 labels: ''
 assignees: ''
-Change Risk: ''
+Change Risk: Standard
 Infrastructure: ''
 Service type & Impacted CI: ''
 
