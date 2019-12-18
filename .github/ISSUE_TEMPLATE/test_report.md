@@ -1,5 +1,5 @@
 ---
-name: change request
+name: testname
 about: standard change test
 title: ''
 labels: ''
